@@ -13,5 +13,5 @@ D'autre part, faire un modèle de machine learning en utilisant les données pas
 
 2)	Ensuite, nous choisirons quelques entreprises du CAC 40 pour faire une classification des séries des différentes entreprises, faires des statistiques descriptives en calculant par exemple la moyenne de la valeur des actions en fonction des différentes entreprises, représenter sur un même graphique les séries de l’ensemble des entreprises et faire une conjoncture sur la forme de la classification non supervisée avant de faire l'application d'un algorithme de K-means sur celles-ci.
 
-Le projet est subdivisé en trois notebooks. Les deux notebooks "Data_Cleaning_+_LSTM" et "Modelisation_ARIMA" utilisent la base CAC40.csv tandis que le notebook "K_means_Companies" utilisent les bases stockées dans le dossier Bases_K-means.
+Le projet est subdivisé en trois notebooks. Les deux notebooks "Data_Cleaning_+_LSTM" et "Modelisation_ARIMA" utilisent la base CAC40.csv tandis que le notebook "K_means_Companies" utilise les bases stockées dans le dossier Bases_K-means.
 
